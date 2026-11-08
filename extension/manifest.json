@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "e-Tax Dojo Japanese Locale Fix",
   "version": "1.0.0",
-  "description": "Use Japanese locale on e-Tax pages before legacy Dojo initializes.",
+  "description": "Fixes Japanese locale initialization on e-Tax. Source: https://github.com/speller/etax-dojo-locale-fix",
   "content_scripts": [
     {
       "matches": [
